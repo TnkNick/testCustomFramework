@@ -8,6 +8,8 @@
 import Foundation
 
 public class Cal {
+    
+    public init() {}
     public func sum(_ a1: Int, _ a2: Int) -> Int {
         return a1 + a2
     }
